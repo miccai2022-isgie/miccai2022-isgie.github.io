@@ -1,11 +1,11 @@
 ---
-title: Jekyll Serif Theme
+title: MICCAI 2022 ISGIE
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Imaging systems for GI endoscopy workshop
 intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
+intro_image_absolute: False
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: False
 ---
 
 # MICCAI 2022 - Imaging systems for GI endoscopy
