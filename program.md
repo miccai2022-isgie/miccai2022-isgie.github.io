@@ -1,7 +1,7 @@
 ---
-title: About
+title: Program
 layout: page
-description: About
+description: Program
 bodyClass: page-about
 ---
 

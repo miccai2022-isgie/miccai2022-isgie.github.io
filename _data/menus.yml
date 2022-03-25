@@ -2,14 +2,14 @@ main:
   - name: "Home"
     url: "/"
     weight: 2
-  - name: "Services"
-    url: "/services/"
+  - name: "Call for Papers"
+    url: "/call-for-papers/"
     weight: 3
-  - name: "Team"
-    url: "/team/"
+  - name: "Program"
+    url: "/program/"
     weight: 4
-  - name: "About"
-    url: "/about/"
+  - name: "Organizers"
+    url: "/organizers/"
     weight: 5
   - name: "Contact"
     url: "/contact/"

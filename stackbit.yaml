@@ -63,8 +63,8 @@ models:
         hidden: true
   services:
     type: page
-    label: Services
-    file: services.md
+    label: Call for papers
+    file: call-for-papers.md
     singleInstance: true
     fields:
       - type: string
@@ -87,8 +87,8 @@ models:
         label: Intro Image Hide On Mobile
   teams:
     type: page
-    label: Teams
-    file: team.md
+    label: Organizers
+    file: organizers.md
     singleInstance: true
     fields:
       - type: string
@@ -120,7 +120,7 @@ models:
       - type: string
         name: bodyClass
       - type: enum
-        name: layout
+        name: layoutTeams
         options:
           - label: page
             value: page
@@ -152,8 +152,8 @@ models:
             value: service
   team:
     type: page
-    label: Team
-    folder: _team
+    label: Organizers
+    folder: _organizers
     fields:
       - type: string
         name: title
