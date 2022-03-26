@@ -1,0 +1,25 @@
+main_topic:
+  - Image processing
+  - 3D vision for endoscopy
+  - Imaging technology
+  - Translational aspects
+
+Imageprocessing:
+  - Lesion detection and classification
+  - Polyp segmentation and detection
+  - Haustral folds detection
+  - Real-time lumen detection
+3Dvisionforendoscopy:
+  - 3D reconstruction of the colon
+  - CT (Virtual) colonoscopy
+  - 3D camera systems
+  - Navigation systems
+Imagingtechnology:
+  - Capsule endoscopy
+  - Imaging in surgical robots
+  - Imaging for soft robotics
+  - Imaging for self-assembling robots
+Translationalaspects:
+  - Clinical trials and lessons learnt
+  - Validation of endoscopic system
+  - Explainability and acceptability of technology by patients and clinician
