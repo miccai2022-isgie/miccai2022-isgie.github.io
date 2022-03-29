@@ -43,3 +43,13 @@ Topics include but are not limited to
     - Clinical trials and lessons learnt
     - Validation of endoscopic systems
     - Explainability and acceptability of technology by patients and clinicians
+  
+
+Workshop proceedings are published as part of Springer Nature's Lecture Notes in 
+Computer Science (LNCS) series. Manuscripts will be reviewed in double-blinded 
+peer-review. Please prepare your workshop papers according to the [MICCAI submission 
+guidelines](https://conferences.miccai.org/2022/en/PAPER-SUBMISSION-AND-REBUTTAL-GUIDELINES.html#manuscriptpreparation) 
+(LNCS template, 8 pages maximum). Supplementary material: PDF documents or 
+mp4 videos, 10 MB maximum file size. At least two reviewers will be assigned to 
+review each submitted paper. Reviews will be double-blind, following the standard 
+procedure. 

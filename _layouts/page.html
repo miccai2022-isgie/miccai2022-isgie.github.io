@@ -3,13 +3,32 @@ layout: default
 bodyClass: "page-basic"
 ---
 
-<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
-    <div class="row justify-content-start">
-        <div class="col-12 col-md-8">
-            <div class="service service-single">
-                <h1 class="title">{{page.title}}</h1>
-                <div class="content">{{content}}</div>
-            </div>
-        </div>
+<div class="container pb-1 pt-6 pt-md-10 pb-md-10">
+    <div class="service service-single">
+        <h1 class="title">{{page.title}}</h1>
+        <div class="content">{{content}}</div>
+    </div>
+</div>
+
+<div class="container pb-1 pt-1 pt-md-2 pb-md-6 strip strip-grey">
+    <div class="content mt-4">
+      <table>
+      <thead>
+        <tr>
+            <th>Time</th>
+            <th>Session</th>
+            <th>Speaker</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for dates in site.data.program %}
+        <tr>
+            <td>{{ dates.time }}</td>
+            <td>{{ dates.session }}</td>
+            <td>{{ dates.speaker }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
     </div>
 </div>

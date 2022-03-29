@@ -1,0 +1,62 @@
+[
+  {
+    "time": "08:30-08:35",
+    "session": "Introduction",
+    "speaker": "X"
+  },
+  {
+    "time": "08:35-08:55",
+    "session": "Selected paper 1",
+    "speaker": "X"
+  },
+  {
+    "time": "08:55-09:15",
+    "session": "Selected paper 2",
+    "speaker": "X"
+  },
+  {
+    "time": "09:15-09:35",
+    "session": "Selected paper 3",
+    "speaker": "X"
+  },
+  {
+    "time": "09:35-10:05",
+    "session": "KEYNOTE 1: Clinical Perspective",
+    "speaker": "Prof Davide Lomato"
+  },
+  {
+    "time": "10:05-10:25",
+    "session": "Coffee Break & Poster Session",
+    "speaker": ""
+  },
+  {
+    "time": "10:25-10:45",
+    "session": "Selected paper 4",
+    "speaker": "X"
+  },
+  {
+    "time": "10:45-11:05",
+    "session": "Selected paper 5",
+    "speaker": "X"
+  },
+  {
+    "time": "11:05-10:25",
+    "session": "Selected paper 6",
+    "speaker": "X"
+  },
+  {
+    "time": "11:25-11:55",
+    "session": "KEYNOTE 2: New Advancements of Robotics in Endoscopy",
+    "speaker": "Prof Russell Taylor"
+  },
+  {
+    "time": "11:55-12:05",
+    "session": "Best Paper Award Talk",
+    "speaker": ""
+  },
+  {
+    "time": "12:05-12:30",
+    "session": "Open Discussion/Closing Remarks",
+    "speaker": ""
+  }
+]
