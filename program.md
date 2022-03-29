@@ -7,4 +7,4 @@ bodyClass: page-about
 
 Wednesday 12th October 2022
 
-At Resort World Convention Centre, Singapore
+Resort World Convention Centre, Singapore

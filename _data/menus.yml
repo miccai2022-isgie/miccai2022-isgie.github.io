@@ -15,7 +15,7 @@ main:
     url: "/organizers/"
     weight: 6
   - name: "Contact"
-    url: "/contact/"
+    url: "/#contact"
     weight: 7
 
 footer:
@@ -23,5 +23,5 @@ footer:
     url: "/"
     weight: 1
   - name: "Contact"
-    url: "/contact/"
+    url: "/#contact"
     weight: 2
