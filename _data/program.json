@@ -5,6 +5,16 @@
     "speaker": "X"
   },
   {
+    "time": "08:30-08:35",
+    "session": "Clinical talk",
+    "speaker": "Prof Davide Lomanto"
+  },
+  {
+    "time": "08:30-08:35",
+    "session": "Technical talk",
+    "speaker": "Prof Russell Taylor"
+  },
+  {
     "time": "08:35-08:55",
     "session": "Selected paper 1",
     "speaker": "X"

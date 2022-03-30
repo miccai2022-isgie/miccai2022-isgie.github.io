@@ -83,12 +83,12 @@
     @include media-breakpoint-up(md) {
       width: 100%;
     }
-ul ol{
-  font-size: 1.2rem;
-  font-weight: light;
-  line-height: 1.5;
-  color: $black;
-  }
+  ul ol li {
+    font-size: 1.2rem;
+    font-weight: light;
+    line-height: 1.5;
+    color: $black;
+    }
   //ul li {
   //  list-style-type: none;
   //}
