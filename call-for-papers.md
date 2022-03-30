@@ -21,6 +21,7 @@ The workshop will have six selected papers, 10 poster presentations, and two inv
 
 Topics include but are not limited to 
 
+<div class="intro2" markdown="1">
 * Image processing
     - Lesion detection and classification
     - Polyp segmentation and detection
@@ -43,6 +44,7 @@ Topics include but are not limited to
     - Clinical trials and lessons learnt
     - Validation of endoscopic systems
     - Explainability and acceptability of technology by patients and clinicians
+</div>
   
 
 Workshop proceedings are published as part of Springer Nature's Lecture Notes in 
