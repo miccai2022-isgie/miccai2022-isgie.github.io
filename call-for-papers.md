@@ -45,7 +45,19 @@ Topics include but are not limited to
     - Validation of endoscopic systems
     - Explainability and acceptability of technology by patients and clinicians
 </div>
-  
+
+<div class="intro2">
+  <div class="container">
+  <div class="call">
+    <div class="call-box-top">
+    <div class="call-phone"><strong>Registration </strong> opens soon </div>
+    </div>
+    <div class="call-box-bottom">
+      <a href="{{ site.data.contact.contact_button_link }}" class="button">Submit</a>
+    </div>
+  </div>
+  </div>
+</div>
 
 Workshop proceedings are published as part of Springer Nature's Lecture Notes in 
 Computer Science (LNCS) series. Manuscripts will be reviewed in double-blinded 
@@ -54,4 +66,4 @@ guidelines](https://conferences.miccai.org/2022/en/PAPER-SUBMISSION-AND-REBUTTAL
 (LNCS template, 8 pages maximum). Supplementary material: PDF documents or 
 mp4 videos, 10 MB maximum file size. At least two reviewers will be assigned to 
 review each submitted paper. Reviews will be double-blind, following the standard 
-procedure. 
+procedure.
