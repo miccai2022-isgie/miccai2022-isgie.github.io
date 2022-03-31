@@ -81,7 +81,11 @@ technical aspects. Topics include but are not limited to
     <div class="call-phone"><strong>Registration </strong> opens soon </div>
     </div>
     <div class="call-box-bottom">
-      <a href="{{ site.data.contact.contact_button_link }}" class="button">Submit</a>
+        {% if site.data.contact.disable_button %}
+            <a href="" onclick="return false;" class="button-disable">Submit</a>
+        {% else %}
+            <a href="{{ site.data.contact.contact_button_link }}" class="button">Submit</a>
+        {% endif %}
     </div>
   </div>
   </div>

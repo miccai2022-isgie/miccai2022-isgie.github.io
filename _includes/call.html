@@ -14,7 +14,11 @@
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">
-        <a href="{{ site.data.contact.contact_button_link }}" class="button">Submit</a>
+        {% if site.data.contact.disable_button %}
+          <a href="" onclick="return false;" class="button-disable">Submit</a>
+        {% else %}
+          <a href="{{ site.data.contact.contact_button_link }}" class="button">Submit</a>
+        {% endif %}
       </div>
     {% endif %}
 </div>
