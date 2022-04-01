@@ -9,14 +9,14 @@ intro_image_hide_on_mobile: true
 
 # Call for papers
 
-Colorectal cancer is the third most common cause of cancer death worldwide, with almost two million new cases in 2020,
-worldwide. Early detection is of paramount importance on detecting cancer at an early stage, due to a 5-year survival
+Colorectal cancer is the third most common cause of cancer death all over the world, with almost two million new cases in 2020,
+worldwide. Early detection is of paramount importance in detecting cancer at an early stage, due to a 5-year survival
 rate close to 100% at stage I, and below 10%, at stage IV. Traditional colonoscopy remains the gold standard procedure
 because of its dual capability to optically inspect the colonic mucosa and to remove polyps, because they may eventually
-become cancer. In the last decades, new technologies have supported clinical decisions with AI and ML algorithm playing
+become cancer. In the last decades, new technologies have supported clinical decisions with AI and ML algorithms playing
 an important role in this process.
 
-This workshop focuses on novel scientific contributions on vision systems, imaging algorithms as well as autonomous
+This workshop focuses on novel scientific contributions to vision systems, imaging algorithms as well as the autonomous
 system for endorobot for GI endoscopy. This includes lesion and lumen detection, as well as 3D reconstruction of the GI
 tract and hand-eye coordination. Applications include but are not limited to wireless capsule endoscopy, standard
 optical colonoscopy, as well as endorobots for endoscopy. Contributions should demonstrate potential clinical benefits
