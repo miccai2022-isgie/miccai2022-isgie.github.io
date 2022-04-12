@@ -6,7 +6,7 @@ image: "images/team/davide.jpg"
 jobtitle: "Professor"
 org: "Department of Surgery, National University of Singapore"
 weburl: "https://medicine.nus.edu.sg/researchers/lomanto-davide/"
-promoted: true
+team: false
 chair: true
 weight: 3
 layout: team

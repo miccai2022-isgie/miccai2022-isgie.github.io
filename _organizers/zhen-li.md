@@ -6,7 +6,7 @@ image: "images/team/zhen.jpg"
 jobtitle: "Assistant Professor"
 org: "Chinese University of Hong Kong (Shenzhen) and Shenzhen Research Institute of Big Data (SRIBD)"
 weburl: "https://sse.cuhk.edu.cn/en/faculty/lizhen"
-promoted: true
+team: true
 chair: false
 weight: 2
 layout: team

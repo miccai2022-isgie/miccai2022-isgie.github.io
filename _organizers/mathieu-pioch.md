@@ -6,7 +6,7 @@ image: "images/team/mathieu.png"
 jobtitle: "Hepato-Gastroenterologis"
 org: "Hospital Practitioner, Lyon, France"
 weburl: "https://endoscopyonair.com/members/mathieu-pioche/"
-promoted: true
+team: true
 chair: false
 weight: 6
 layout: team

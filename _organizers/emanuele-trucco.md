@@ -6,7 +6,7 @@ image: "images/team/manuel.jpg"
 jobtitle: "Full Professor"
 org: "School of Science and Engineering, University of Dundee, UK"
 weburl: "https://www.dundee.ac.uk/people/emanuele-trucco"
-promoted: true
+team: true
 chair: false
 weight: 7
 layout: team

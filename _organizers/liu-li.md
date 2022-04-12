@@ -6,7 +6,7 @@ image: "images/team/liu.jpeg"
 jobtitle: "Research Scientist"
 org: "Shenzhen Research Institute of Big Data, Chinese University of HongKong (ShenZhen)"
 weburl: "https://www.linkedin.com/in/li-liu-1b078013a/"
-promoted: true
+team: true
 chair: false
 weight: 3
 layout: team

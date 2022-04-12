@@ -6,7 +6,7 @@ image: "images/team/luigi.jpg"
 jobtitle: "Principal Investigator"
 org: "School of Medicine, University of Dundee, UK"
 weburl: "https://www.luigimanfredi.com/"
-promoted: true
+team: false
 chair: true
 weight: 1
 layout: team

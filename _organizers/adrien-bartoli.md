@@ -6,7 +6,7 @@ image: "images/team/adrien.jpg"
 jobtitle: "Professor"
 org: "Clermont University Hospital, Clermont-Ferrand, France"
 weburl: "http://igt.ip.uca.fr/~ab/"
-promoted: true
+team: true
 chair: false
 weight: 5
 layout: team

@@ -6,7 +6,7 @@ image: "images/team/arianna.jpg"
 jobtitle: "Full Professor"
 org: "BioRobotics Institute, Scuola Superiore Sant'Anna of Pisa, Italy"
 weburl: "https://www.santannapisa.it/en/arianna-menciassi"
-promoted: true
+team: true
 chair: false
 weight: 4
 layout: team

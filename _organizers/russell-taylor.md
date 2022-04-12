@@ -6,7 +6,7 @@ image: "images/team/russell.jpg"
 jobtitle: "John C. Malone Professor"
 org: "Whiting School of Engineering, The Johns Hopkins University, USA"
 weburl: "https://www.cs.jhu.edu/~rht/"
-promoted: true
+team: false
 chair: true
 weight: 2
 layout: team

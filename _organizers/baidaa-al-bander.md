@@ -6,7 +6,7 @@ image: "images/team/baidaa.jpeg"
 jobtitle: "Postdoctoral Research Assistant"
 org: "School of Medicine, University of Dundee, UK"
 weburl: "https://www.dundee.ac.uk/people/baidaa-al-bander"
-promoted: true
+team: true
 chair: false
 weight: 8
 layout: team
