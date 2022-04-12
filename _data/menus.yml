@@ -8,12 +8,12 @@ main:
   - name: "Important Dates"
     url: "/#important-dates"
     weight: 4
-#  - name: "Program"
-#    url: "/program/"
-#    weight: 5
+  - name: "Program"
+    url: "/program/"
+    weight: 5
   - name: "Organizers"
     url: "/organizers/"
-    weight: 5
+    weight: 6
   - name: "Contact"
     url: "/#contact"
     weight: 7
