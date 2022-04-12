@@ -12,6 +12,9 @@ bodyClass: "page-home"
         {% if page.show_call_box %}
           {% include call.html show_button=true %}
         {% endif %}
+        {% if site.data.contact.disable_button==false %}
+          {% include countdown.html show_button=true %}
+        {% endif %}
       </div>
       {% if page.intro_image %}
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
@@ -128,7 +131,7 @@ bodyClass: "page-home"
   <div class="container">
     <h1 class="title" id="contact">Contact</h1>
     <div class="contact-details">
-    If you have a query relating to ISGIE 2022 workshop, please contact us by e-mail at <a href="mailto:l.manfredi@dundee.ac.uk">l.manfredi@dundee.ac.uk</a>.
+    If you have a query relating to ISGIE 2022 workshop, please contact us by e-mail at <a href="mailto: {{site.data.contact.email}}">{{site.data.contact.email}}</a>.
     </div>
   </div>
 </div>

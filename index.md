@@ -7,7 +7,6 @@ intro_image: "images/illustrations/isgie.svg"
 intro_image_absolute: True
 intro_image_hide_on_mobile: False
 show_call_box: True
-news: true
 ---
 # MICCAI 2022 ISGIE
 
