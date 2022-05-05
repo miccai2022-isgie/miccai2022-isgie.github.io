@@ -12,7 +12,7 @@ bodyClass: "page-home"
         {% if page.show_call_box %}
           {% include call.html show_button=true %}
         {% endif %}
-        {% if site.data.contact.disable_button==false %}
+        {% if site.data.contact.countdown==true %}
           {% include countdown.html show_button=true %}
         {% endif %}
       </div>
