@@ -19,18 +19,21 @@ var count_string = "paper submission"
 // var countDownDate = new Date("September 18, 2022 23:59:59").getTime(); // workshop
 // var count_string = "workshop"
 
+var hr_diff = 7 * 3.6e+6 // 7hrs in millisec
+
 // Update the count down every 1 second
 var x = setInterval(function() {
 
   // Get today's date and time
   var now = new Date().getTime();
+  now = now - hr_diff // UTC to PST (-7hrs)
 
   // Find the distance between now and the count down date
   var distance = countDownDate - now;
 
   // Time calculations for days, hours, minutes and seconds
   var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)) - 7; // UTC to PST (-7hrs)
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
   var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
