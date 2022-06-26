@@ -78,7 +78,7 @@ technical aspects. Topics include but are not limited to
   <div class="container">
   <div class="call">
     <div class="call-box-top">
-    <div class="call-phone"><strong>Registration </strong> opened </div>
+    <div class="call-phone"><strong>Registration </strong> closed </div>
     </div>
     <div class="call-box-bottom">
         {% if site.data.contact.disable_button %}
