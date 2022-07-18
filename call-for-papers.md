@@ -78,13 +78,13 @@ technical aspects. Topics include but are not limited to
   <div class="container">
   <div class="call">
     <div class="call-box-top">
-    <div class="call-phone"><strong>Registration </strong> extended </div>
+    <div class="call-phone"><strong>Registration </strong> closed </div>
     </div>
     <div class="call-box-bottom">
         {% if site.data.contact.disable_button %}
-            <a href="" onclick="return false;" class="button-disable">Submit</a>
+          <a href="{{ site.data.contact.contact_button_link }}" class="button">Submission portal</a>
         {% else %}
-            <a href="{{ site.data.contact.contact_button_link }}" class="button">Submit</a>
+          <a href="{{ site.data.contact.contact_button_link }}" class="button">Submit</a>
         {% endif %}
     </div>
   </div>
