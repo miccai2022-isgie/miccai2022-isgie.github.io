@@ -40,11 +40,9 @@ bodyClass: "page-home"
 <div class="intro2">
   <div class="container">
     <h1 class="title pd-2" id="news">News</h1>
-    <ul>
     {% for item in site.data.news.news limit:5%}
-      <li> {{item}} </li>
+      <p align> {{item}} </p>
     {% endfor %}
-    </ul>
     {% if site.data.news.news.size > 5 %}
     <div class="call-box-bottom pt-3">
       <a href="/news" class="button">more news</a>
