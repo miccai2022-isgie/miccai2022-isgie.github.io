@@ -96,3 +96,7 @@ Manuscripts will be reviewed in double-blinded peer-review. Please prepare your 
 the [MICCAI submission guidelines](https://conferences.miccai.org/2022/en/PAPER-SUBMISSION-AND-REBUTTAL-GUIDELINES.html#manuscriptpreparation)
 (LNCS template, up to 8-pages including text, figures and tables plus up to 2 pages of references). Supplementary 
 materials can be PDF documents or mp4 videos (10 MB maximum file size).
+
+**Camera ready** guidelines can be found [here](https://conferences.miccai.org/2022/en/CAMERA-READY-GUIDELINES.html). If 
+you have any questions, please contact us by e-mail 
+at <a href="mailto: {{site.data.contact.email}}">{{site.data.contact.email}}</a>.
