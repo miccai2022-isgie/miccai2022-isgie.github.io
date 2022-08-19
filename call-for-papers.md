@@ -91,7 +91,9 @@ technical aspects. Topics include but are not limited to
   </div>
 </div>
 
-Workshop proceedings are published as part of Springer Nature's Lecture Notes in Computer Science (LNCS) series.
+<img src="https://raw.githubusercontent.com/miccai2022-isgie/miccai2022-isgie.github.io/master/images/logo/LNCS-Logo.png" alt="LNCS logo" width="50%"/>
+
+Workshop proceedings are published as part of [Springer Nature's Lecture Notes in Computer Science (LNCS)](https://www.springer.com/gp/computer-science/lncs) series.
 Manuscripts will be reviewed in double-blinded peer-review. Please prepare your workshop papers according to
 the [MICCAI submission guidelines](https://conferences.miccai.org/2022/en/PAPER-SUBMISSION-AND-REBUTTAL-GUIDELINES.html#manuscriptpreparation)
 (LNCS template, up to 8-pages including text, figures and tables plus up to 2 pages of references). Supplementary 
