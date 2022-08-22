@@ -1,61 +1,66 @@
 [
   {
     "time": "08:30-08:35",
-    "session": "Introduction",
-    "speaker": "X"
+    "session": "Introduction to the Workshop",
+    "speaker": "Chairs of the Workshop"
   },
   {
-    "time": "08:35-08:55",
-    "session": "Selected paper 1",
-    "speaker": "X"
+    "time": "08:35-08:50",
+    "session": "<b>Oral session 1</b>: <br>Light Adaptation for Classification of the <br>Upper Gastrointestinal Sites",
+    "speaker": "Dr Xiaohan Hao, <br>University of Science and Technology of China"
   },
   {
-    "time": "08:55-09:15",
-    "session": "Selected paper 2",
-    "speaker": "X"
+    "time": "08:50-09:05",
+    "session": "<b>Oral session 2</b>: <br>Criss-Cross Attention based Multi-Level <br>Fusion Network for Gastric Intestinal <br>Metaplasia Segmentation",
+    "speaker": "Dr Chu-Min, <br>National Chung Hsing University, Taiwan"
   },
   {
-    "time": "09:15-09:35",
-    "session": "Selected paper 3",
-    "speaker": "X"
+    "time": "09:05-09:20",
+    "session": "<b>Oral session 3</b>: <br>Colonoscopy landmark detection using <br>Vision Transformers",
+    "speaker": "Dr Aniruddha M Tamhane, <br>Intuitive Surgical Operations Inc, USA"
   },
   {
-    "time": "09:35-10:05",
-    "session": "KEYNOTE 1: ",
-    "speaker": "Prof Ho Khek Yu"
+    "time": "09:20-09:50",
+    "session": "<b>KEYNOTE 1</b>: <br>New Robotics Technologies in Medicine",
+    "speaker": "Prof Russel Taylor, <br>Johns Hopkins University, USA"
   },
   {
-    "time": "10:05-10:25",
-    "session": "Coffee Break & Poster Session",
+    "time": "09:50-10:10",
+    "session": "COFFEE BREAK & POSTER SESSION",
     "speaker": ""
   },
   {
-    "time": "10:25-10:45",
-    "session": "Selected paper 4",
-    "speaker": "X"
+    "time": "10:10-10:25",
+    "session": "<b>Oral session 4</b>: <br>Real-Time Lumen Detection for <br>Autonomous Colonoscopy",
+    "speaker": "Dr Ludovic Magerand, <br>University of Dundee, UK"
   },
   {
-    "time": "10:45-11:05",
-    "session": "Selected paper 5",
-    "speaker": "X"
+    "time": "10:25-10:40",
+    "session": "<b>Oral session 5</b>: <br>SuperPoint Features in Endoscopy",
+    "speaker": "Dr Leon Barbed, <br>Universidad de Zaragoza, Spain"
   },
   {
-    "time": "11:05-10:25",
-    "session": "Selected paper 6",
-    "speaker": "X"
+    "time": "10:40-10:55",
+    "session": "<b>Oral session 6</b>: <br>Estimating the Coverage in 3D Reconstructions <br>of the Colon from Colonoscopy Videos",
+    "speaker": "Dr Emmanuelle Muhlethaler, <br>Intuitive Surgical, USA"
   },
   {
-    "time": "11:25-11:55",
-    "session": "KEYNOTE 2: New Advancements of Robotics in Endoscopy",
-    "speaker": "Prof Russell Taylor"
+    "time": "10:55-11:10",
+    "session": "Endomapper Dataset of Complete Calibrated <br>Endoscopy Procedures",
+    "speaker": "Prof J.M.M Montiel, <br>Universidad de Zaragoza, Spain"
   },
   {
-    "time": "11:55-12:05",
-    "session": "Best Paper Award Talk",
+    "time": "11:10-11:40",
+    "session": "<b>KEYNOTE 2</b>: <br>Latest Advances of Robotics in Endoscopy: <br>Clinical Prospective",
+    "speaker": "Prof Ho Khek Yu, <br>National University of Singapore"
+  },
+  {
+    "time": "11:40-11:50",
+    "session": "<b>Best Paper Award</b>: Sponsored by Olympus Japan",
     "speaker": ""
   },
   {
-    "time": "12:05-12:30",
+    "time": "11:50-12:20",
     "session": "Open Discussion/Closing Remarks",
     "speaker": ""
   }
