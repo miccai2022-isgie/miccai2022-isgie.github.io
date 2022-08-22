@@ -91,14 +91,27 @@ technical aspects. Topics include but are not limited to
   </div>
 </div>
 
-<img src="https://raw.githubusercontent.com/miccai2022-isgie/miccai2022-isgie.github.io/master/images/logo/LNCS-Logo.png" alt="LNCS logo" width="50%"/>
-
-Workshop proceedings are published as part of [Springer Nature's Lecture Notes in Computer Science (LNCS)](https://www.springer.com/gp/computer-science/lncs) series.
-Manuscripts will be reviewed in double-blinded peer-review. Please prepare your workshop papers according to
+Manuscripts will be reviewed in **double-blinded** peer-review. Please prepare your workshop papers according to
 the [MICCAI submission guidelines](https://conferences.miccai.org/2022/en/PAPER-SUBMISSION-AND-REBUTTAL-GUIDELINES.html#manuscriptpreparation)
 (LNCS template, up to 8-pages including text, figures and tables plus up to 2 pages of references). Supplementary 
-materials can be PDF documents or mp4 videos (10 MB maximum file size).
+materials can be PDF documents or mp4 videos (10 MB maximum file size). **Camera ready** guidelines can be found 
+[here](https://conferences.miccai.org/2022/en/CAMERA-READY-GUIDELINES.html).
 
-**Camera ready** guidelines can be found [here](https://conferences.miccai.org/2022/en/CAMERA-READY-GUIDELINES.html). If 
-you have any questions, please contact us by e-mail 
-at <a href="mailto: {{site.data.contact.email}}">{{site.data.contact.email}}</a>.
+<div class="intro2">
+<div class="container">
+    <div class="content mt-3">
+      <table>
+      <tbody>
+        <tr>
+            <td style="vertical-align: middle;">
+            <a href="https://www.springer.com/gp/computer-science/lncs">
+            <img src="https://raw.githubusercontent.com/miccai2022-isgie/miccai2022-isgie.github.io/master/images/logo/LNCS-Logo.png" alt="LNCS logo" width="100%"/>
+            </a>
+            </td>
+            <td style="text-align:center; vertical-align: middle;"><p>Accepted papers will be published in Springer Nature's Lecture Notes in Computer Science (LNCS), MICCAI Workshop Singapore, 22 September 2022 proceeding.</p></td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+</div>
+</div>
