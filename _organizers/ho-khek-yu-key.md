@@ -1,11 +1,11 @@
 ---
-title: "Prof Ho Khek Yu"
+title: "Prof Lawrence Ho Khek-Yu"
 date: 2018-11-19T10:47:58+10:00 
 draft: false 
 image: "images/team/khekyuho.jpg"
 jobtitle: "Professor"
 org: "National University of Singapore"
-weburl2: "https://medicine.nus.edu.sg/researchers/ho-khek-yu/"
+weburl2: "https://www.nuh.com.sg/patients-visitors/Pages/find-a-doctor-details.aspx?docid=Lawrence_Ho_Khek-Yu"
 team: false 
 chair: false 
 key: true 
