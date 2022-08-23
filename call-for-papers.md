@@ -40,35 +40,35 @@ technical aspects. Topics include but are not limited to
 
 <div class="intro2" style="color:#000000; font-size:1.2rem">
 <ul>
-    <li>Image processing
+    <li><p>Image processing</p>
         <ul>
-            <li>Lesion detection and classification</li>
-            <li>Polyp segmentation and detection</li>
-            <li>Haustral folds detection</li>
-            <li>Real-time lumen detection</li>
+            <li><p>Lesion detection and classification</p></li>
+            <li><p>Polyp segmentation and detection</p></li>
+            <li><p>Haustral folds detection</p></li>
+            <li><p>Real-time lumen detection</p></li>
         </ul>
     </li>
-    <li>3D vision for endoscopy
+    <li><p>3D vision for endoscopy</p>
         <ul>
-            <li>3D reconstruction of the colon</li>
-            <li>CT (Virtual) colonoscopy</li>
-            <li>3D camera systems</li>
-            <li>Navigation systems</li>
+            <li><p>3D reconstruction of the colon</p></li>
+            <li><p>CT (Virtual) colonoscopy</p></li>
+            <li><p>3D camera systems</p></li>
+            <li><p>Navigation systems</p></li>
         </ul>
     </li>
-    <li>Imaging technology
+    <li><p>Imaging technology</p>
         <ul>
-            <li>Capsule endoscopy</li>
-            <li>Imaging in surgical robots</li>
-            <li>Imaging for soft robotics</li>
-            <li>Imaging for self-assembling robots</li>
+            <li><p>Capsule endoscopy</p></li>
+            <li><p>Imaging in surgical robots</p></li>
+            <li><p>Imaging for soft robotics</p></li>
+            <li><p>Imaging for self-assembling robots</p></li>
         </ul>
     </li>
-    <li>Translational aspects
+    <li><p>Translational aspects</p>
         <ul>
-            <li>Clinical trials and lessons learnt</li>
-            <li>Validation of endoscopic systems</li>
-            <li>Explainability and acceptability of technology by patients and clinicians</li>
+            <li><p>Clinical trials and lessons learnt</p></li>
+            <li><p>Validation of endoscopic systems</p></li>
+            <li><p>Explainability and acceptability of technology by patients and clinicians</p></li>
         </ul>
     </li>
 </ul>
@@ -108,7 +108,7 @@ materials can be PDF documents or mp4 videos (10 MB maximum file size). **Camera
             <img src="https://raw.githubusercontent.com/miccai2022-isgie/miccai2022-isgie.github.io/master/images/logo/LNCS-Logo.png" alt="LNCS logo" width="100%"/>
             </a>
             </td>
-            <td style="text-align:center; vertical-align: middle;"><p>Accepted papers will be published in Springer Nature's Lecture Notes in Computer Science (LNCS), MICCAI Workshop Singapore, 22 September 2022 proceeding.</p></td>
+            <td style="text-align:center; vertical-align: middle;"><p>Accepted papers will be published in Springer Nature's Lecture Notes in Computer Science (LNCS), MICCAI Workshop Singapore, 18 September 2022 proceeding.</p></td>
         </tr>
       </tbody>
     </table>
