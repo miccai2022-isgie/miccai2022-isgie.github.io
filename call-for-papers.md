@@ -82,9 +82,9 @@ technical aspects. Topics include but are not limited to
     </div>
     <div class="call-box-bottom">
         {% if site.data.contact.disable_button %}
-          <a href="{{ site.data.contact.contact_button_link }}" class="button">Submission portal</a>
+          <a href="" onclick="return false;" class="button-disable">Submission portal</a>
         {% else %}
-          <a href="{{ site.data.contact.contact_button_link }}" class="button">Submit</a>
+          <a href="{{ site.data.contact.contact_button_link }}" class="button">Submission portal</a>
         {% endif %}
     </div>
   </div>
