@@ -24,43 +24,43 @@
     "session": "<b>KEYNOTE 1</b>: <br>New Robotics Technologies in Medicine",
     "speaker": "Prof Russel Taylor, <br>Johns Hopkins University, USA"
   },
-  {
-    "time": "09:20-09:40",
-    "session": "COFFEE BREAK",
-    "speaker": ""
-  },
-  {
-    "time": "09:40-09:55",
-    "session": "<b>Oral session 4</b>: <br>Real-Time Lumen Detection for <br>Autonomous Colonoscopy",
-    "speaker": "Dr Ludovic Magerand, <br>University of Dundee, UK"
-  },
-  {
-    "time": "09:55-10:10",
-    "session": "<b>Oral session 5</b>: <br>SuperPoint Features in Endoscopy",
-    "speaker": "Mr O León Barbed, <br>University of Zaragoza, Spain"
-  },
-  {
-    "time": "10:10-10:25",
-    "session": "<b>Oral session 6</b>: <br>Estimating the Coverage in 3D Reconstructions <br>of the Colon from Colonoscopy Videos",
-    "speaker": "Dr Emmanuelle Muhlethaler, <br>Intuitive Surgical, USA"
-  },
-  {
-    "time": "10:25-10:40",
+    {
+    "time": "09:20-09:35",
     "session": "Endomapper Dataset of Complete Calibrated <br>Endoscopy Procedures",
     "speaker": "Prof J.M.M Montiel, <br>University of Zaragoza, Spain"
   },
   {
-    "time": "10:40-11:10",
+    "time": "09:35-10:00",
+    "session": "COFFEE BREAK",
+    "speaker": ""
+  },
+  {
+    "time": "10:00-10:15",
+    "session": "<b>Oral session 4</b>: <br>Real-Time Lumen Detection for <br>Autonomous Colonoscopy",
+    "speaker": "Dr Ludovic Magerand, <br>University of Dundee, UK"
+  },
+  {
+    "time": "10:15-10:30",
+    "session": "<b>Oral session 5</b>: <br>SuperPoint Features in Endoscopy",
+    "speaker": "Mr O León Barbed, <br>University of Zaragoza, Spain"
+  },
+  {
+    "time": "10:30-10:45",
+    "session": "<b>Oral session 6</b>: <br>Estimating the Coverage in 3D Reconstructions <br>of the Colon from Colonoscopy Videos",
+    "speaker": "Dr Emmanuelle Muhlethaler, <br>Intuitive Surgical, USA"
+  },
+  {
+    "time": "10:45-11:15",
     "session": "<b>KEYNOTE 2</b>: <br>Latest Advances of Robotics in Endoscopy: <br>Clinical Prospective",
     "speaker": "Prof Ho Khek Yu, <br>National University of Singapore"
   },
   {
-    "time": "11:10-11:15",
+    "time": "11:15-11:20",
     "session": "<b>Best Paper Award</b>: Sponsored by <a href=\"https://www.olympus-global.com/\">Olympus</a>",
     "speaker": ""
   },
   {
-    "time": "11:15-11:30",
+    "time": "11:20-11:30",
     "session": "Open Discussion/Closing Remarks",
     "speaker": ""
   }
