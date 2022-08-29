@@ -7,27 +7,27 @@
   {
     "time": "08:05-08:20",
     "session": "<b>Oral session 1</b>: <br>Light Adaptation for Classification of the <br>Upper Gastrointestinal Sites",
-    "speaker": "Dr Xiaohan Hao, <br>University of Science and Technology of China"
+    "speaker": "Dr Xiaohan Hao, <br>University of Science and Technology of China, China"
   },
   {
     "time": "08:20-08:35",
     "session": "<b>Oral session 2</b>: <br>Criss-Cross Attention based Multi-Level <br>Fusion Network for Gastric Intestinal <br>Metaplasia Segmentation",
-    "speaker": "Dr Chu-Min, <br>National Chung Hsing University, Taiwan"
+    "speaker": "Mr Chu-Min Nien, <br>National Chung Hsing University, Taiwan"
   },
   {
     "time": "08:35-08:50",
     "session": "<b>Oral session 3</b>: <br>Colonoscopy Landmark Detection using <br>Vision Transformers",
-    "speaker": "Dr Aniruddha M Tamhane, <br>Intuitive Surgical Operations Inc, USA"
+    "speaker": "Mr Aniruddha Tamhane, <br>Intuitive Surgical Inc, USA"
   },
   {
     "time": "08:50-09:20",
     "session": "<b>KEYNOTE 1</b>: <br>New Robotics Technologies in Medicine",
-    "speaker": "Prof Russel Taylor, <br>Johns Hopkins University, USA"
+    "speaker": "Prof Russell Taylor, <br>Johns Hopkins University, USA"
   },
     {
     "time": "09:20-09:35",
     "session": "Endomapper Dataset of Complete Calibrated <br>Endoscopy Procedures",
-    "speaker": "Prof J.M.M Montiel, <br>University of Zaragoza, Spain"
+    "speaker": "Prof J.M.M. Montiel, <br>University of Zaragoza, Spain"
   },
   {
     "time": "09:35-10:00",
@@ -47,7 +47,7 @@
   {
     "time": "10:30-10:45",
     "session": "<b>Oral session 6</b>: <br>Estimating the Coverage in 3D Reconstructions <br>of the Colon from Colonoscopy Videos",
-    "speaker": "Dr Emmanuelle Muhlethaler, <br>Intuitive Surgical, USA"
+    "speaker": "Ms Emmanuelle Muhlethaler, <br>Intuitive Surgical Inc, Israel"
   },
   {
     "time": "10:45-11:15",
