@@ -13,9 +13,8 @@ Only registered presenters will receive access information. Please refer
 [here](https://miccai2022-isgie.github.io/program/#schedule) for your presenter's registration status and your 
 presentation mode. 
 
-Please be reminded that each oral presentation will also have an associated poster presentation. All material 
-must be uploaded to Pathable no later than September X, 2022. Our support team will be en route to Singapore 
-and will not be able to assist you after September X.
+All material must be uploaded to Pathable no later than September 11, 2022. Our support team will be en route to Singapore 
+and will not be able to assist you after September 13.
 
 MICCAI2022 will be a primarily in-person event with virtual components. The conference agenda will follow 
 **Singapore local time**. All presenters are expected to be available at the scheduled presentation 
@@ -36,8 +35,8 @@ Pathable one week prior to the conference. For in-person presenters, presentatio
 submitted (or uploaded to conference computer systems) in advance to minimize transition time between presenters. 
 Timing will be strictly enforced to ensure a smooth handover between speakers. Please ensure that you have 
 rehearsed the timing of your talk beforehand. As a rule of thumb, you should have one slide per minute of talk time. 
-The session chair will introduce each speaker and the title of the talk. Each oral presentation will also have an 
-associated poster presentation. Upload details and access to Pathable will be communicated to you at a later date.
+The session chair will introduce each speaker and the title of the talk. Upload details and access to Pathable will 
+be communicated to you at a later date.
 
 **Slides Format and upload** 
 
