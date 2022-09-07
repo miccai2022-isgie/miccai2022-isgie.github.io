@@ -7,17 +7,17 @@
   {
     "time": "08:05-08:20",
     "session": "<b>Oral session 1</b>: <br>Light Adaptation for Classification of the <br>Upper Gastrointestinal Sites",
-    "speaker": "Dr Xiaohan Hao, <br>University of Science and Technology of China, China"
+    "speaker": "Mr Xiaohan Hao, <br>SonoScape Medical Corp, China<br>(virtual, registered)"
   },
   {
     "time": "08:20-08:35",
     "session": "<b>Oral session 2</b>: <br>Criss-Cross Attention based Multi-Level <br>Fusion Network for Gastric Intestinal <br>Metaplasia Segmentation",
-    "speaker": "Mr Chu-Min Nien, <br>National Chung Hsing University, Taiwan"
+    "speaker": "Mr Chu-Min Nien, <br>National Chung Hsing University, Taiwan<br>(virtual, not registered)"
   },
   {
     "time": "08:35-08:50",
     "session": "<b>Oral session 3</b>: <br>Colonoscopy Landmark Detection using <br>Vision Transformers",
-    "speaker": "Mr Aniruddha Tamhane, <br>Intuitive Surgical Inc, USA"
+    "speaker": "Mr Aniruddha Tamhane, <br>Intuitive Surgical Inc, USA<br>(virtual, registered)"
   },
   {
     "time": "08:50-09:20",
@@ -27,7 +27,7 @@
     {
     "time": "09:20-09:35",
     "session": "Endomapper Dataset of Complete Calibrated <br>Endoscopy Procedures",
-    "speaker": "Prof J.M.M. Montiel, <br>University of Zaragoza, Spain"
+    "speaker": "Prof J.M.M. Montiel, <br>University of Zaragoza, Spain<br>(in-person)"
   },
   {
     "time": "09:35-10:00",
@@ -37,17 +37,17 @@
   {
     "time": "10:00-10:15",
     "session": "<b>Oral session 4</b>: <br>Real-Time Lumen Detection for <br>Autonomous Colonoscopy",
-    "speaker": "Dr Ludovic Magerand, <br>University of Dundee, UK"
+    "speaker": "Dr Ludovic Magerand, <br>University of Dundee, UK<br>(virtual, registered)"
   },
   {
     "time": "10:15-10:30",
     "session": "<b>Oral session 5</b>: <br>SuperPoint Features in Endoscopy",
-    "speaker": "Mr O León Barbed, <br>University of Zaragoza, Spain"
+    "speaker": "Mr O León Barbed, <br>University of Zaragoza, Spain<br>(in-person, registered)"
   },
   {
     "time": "10:30-10:45",
     "session": "<b>Oral session 6</b>: <br>Estimating the Coverage in 3D Reconstructions <br>of the Colon from Colonoscopy Videos",
-    "speaker": "Ms Emmanuelle Muhlethaler, <br>Intuitive Surgical Inc, Israel"
+    "speaker": "Ms Emmanuelle Muhlethaler, <br>Intuitive Surgical Inc, Israel<br>(virtual, registered)"
   },
   {
     "time": "10:45-11:15",
