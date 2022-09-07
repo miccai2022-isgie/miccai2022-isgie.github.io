@@ -7,14 +7,18 @@ schedule: True
 ---
 
 The final workshop program is now available [here](https://miccai2022-isgie.github.io/program/#schedule). 
-Access to [Pathable](https://pathable.com/) and upload instructions will be sent to 
-the presenters soon. Please note that the presenter of your paper must register in order to access Pathable. 
-Only registered presenters will receive access information. Please refer 
-[here](https://miccai2022-isgie.github.io/program/#schedule) for your presenter's registration status and your 
-presentation mode. 
+Access to [Pathable](https://pathable.com/) will be already available to all MICCAI registered participants. If you still 
+does not have access to Pathable, kindly use [this](https://miccai2022.pathable.eu/) link and try recover password or 
+contact Pathable directly. File upload instructions will be sent to  the presenters soon. 
+Please note that the presenter of your paper must register  in order to access Pathable. Only registered presenters 
+will receive access information. Please refer [here](https://miccai2022-isgie.github.io/program/#schedule) for your 
+presenter's registration status and your presentation mode. The Pathable virtual system uses the Zoom platform for 
+the live meetings in webinar or meeting style. Virtual participants are required to install [zoom](https://zoom.us/) to 
+join the workshop. If you are new to Pathable, please watch [tutorial videos](https://miccai2022.pathable.eu/tutorial-videos) 
+and visit [FAQ](https://miccai2022.pathable.eu/faq).
 
-All material must be uploaded to Pathable no later than September 11, 2022. Our support team will be en route to Singapore 
-and will not be able to assist you after September 13.
+All material must be uploaded no later than _September 11, 2022_. Our support team will be en route to Singapore 
+and will not be able to assist you after _September 13, 2022_.
 
 MICCAI2022 will be a primarily in-person event with virtual components. The conference agenda will follow 
 **Singapore local time**. All presenters are expected to be available at the scheduled presentation 
@@ -35,8 +39,8 @@ Pathable one week prior to the conference. For in-person presenters, presentatio
 submitted (or uploaded to conference computer systems) in advance to minimize transition time between presenters. 
 Timing will be strictly enforced to ensure a smooth handover between speakers. Please ensure that you have 
 rehearsed the timing of your talk beforehand. As a rule of thumb, you should have one slide per minute of talk time. 
-The session chair will introduce each speaker and the title of the talk. Upload details and access to Pathable will 
-be communicated to you at a later date.
+The session chair will introduce each speaker and the title of the talk. For virtual speakers, if your presentation has 
+videos, make sure to tick "share sound" and "optimize for video clip" in the zoom share window.
 
 **Slides Format and upload** 
 
