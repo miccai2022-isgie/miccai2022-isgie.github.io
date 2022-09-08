@@ -11,12 +11,15 @@ main:
   - name: "Program"
     url: "/program/"
     weight: 5
+  - name: "Information for Speakers"
+    url: "/info-for-speakers/"
+    weight: 6
   - name: "Organizers"
     url: "/organizers/"
-    weight: 6
+    weight: 7
   - name: "Contact"
     url: "/#contact"
-    weight: 7
+    weight: 8
 
 footer:
   - name: "Home"

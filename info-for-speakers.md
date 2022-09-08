@@ -1,7 +1,7 @@
 ---
-title: Information for speakers
+title: Information for Speakers
 layout: info
-description: Information for speakers
+description: Information for Speakers
 bodyClass: info-about
 schedule: True
 ---
@@ -28,7 +28,7 @@ time for live presentations, regardless of the presentation mode (in-person or v
 For Oral sessions, presentations will be given live followed by a live Q&A. All sessions will be broadcast LIVE to 
 Pathable where the virtual conference attendees can  participate in real-time.
 
-**Instructions for Oral presenters**
+**Instructions for Oral Presenters**
 
 Please prepare slides for a 10-minute presentation. After your talk, there will be approximately 5 minutes for 
 questions. We asked all oral presenters (both in person or virtual) to submit weblink to both presentation slides and backup video presentation to 
@@ -37,11 +37,11 @@ rehearsed the timing of your talk beforehand. As a rule of thumb, you should hav
 The session chair will introduce each speaker and the title of the talk. For virtual speakers, if your presentation has 
 videos, make sure to tick "share sound" and "optimize for video clip" in the zoom share window.
 
-**Slides Format and upload** 
+**Slides Format and Upload** 
 
 In-person presenters will be required to use the workshop system to minimize setup time. Instructions to submit weblink to your slides is communicated to 
 the presenter by email via CMT. There will be a speaker-ready room for presenters to check their files with the 
-conference system.
+conference system. You can download MICAAI 2022 presentation template [here](https://conferences.miccai.org/2022/files/downloads/MICCAI2022-Presentation-Template.pptx). 
 
 The preferred slide formats are Microsoft PowerPoint and Adobe PDF. Please prepare your slides in 16:9 aspect ratio. 
 We also suggest to bringing a copy of all the files including videos on a USB key for in-person presenters. If you are including videos in your 
@@ -50,7 +50,7 @@ issues. Exporting the presentation using the Package for CD option from PowerPoi
 media files are copied into one location and file paths are adjusted inside the presentation. Windows Video Player 
 is installed in the presentation computer.
 
-**Video format for Pathable**
+**Video Format for Pathable**
 
 The weblink to 10 minutes backup video of your presentation must be submitted prior to the workshop. 
 Format: mp4 at 1080p, maximum file size 2 GB, encoded with H.264 (AVCHD) video codec and AAC audio codec. For 
