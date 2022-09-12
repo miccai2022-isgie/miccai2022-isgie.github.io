@@ -53,10 +53,12 @@ also suggest to bringing a copy of all the files including videos on a USB key f
 including videos in your presentation, it is highly recommended you use a standard codec such as Microsoft Video 1 to
 avoid playback issues. Exporting the presentation using the Package for CD option from PowerPoint will ensure that all
 media files are copied into one location and file paths are adjusted inside the presentation. Windows Video Player is
-installed in the presentation computer.
+installed in the presentation computer. Please rename your presentation file to "**slides_X.ppt**" or 
+"**slides_X.pdf**", where X is your oral session ID as in [schedule](https://miccai2022-isgie.github.io/program/#schedule).
 
 **Video Format for Pathable**
 
 The weblink to 10 minutes backup video of your presentation must be submitted prior to the workshop. Format: mp4 at
 1080p, maximum file size 2 GB, encoded with H.264 (AVCHD) video codec and AAC audio codec. For uploaded videos, please
-keep the encoded video bitrate between 4.5Mbps and 6Mbps to balance quality and playback smoothness.
+keep the encoded video bitrate between 4.5Mbps and 6Mbps to balance quality and playback smoothness. Please rename your 
+mp4 file to "**video_X.mp4**", where X is your oral session ID as in [schedule](https://miccai2022-isgie.github.io/program/#schedule).
