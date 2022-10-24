@@ -6,9 +6,10 @@ image: "images/team/alwyn.png"
 jobtitle: "Postdoctoral Research Assistant"
 org: "School of Medicine, University of Dundee, UK"
 weburl: "https://alwynm.github.io/"
-team: true
+team: false
 chair: false
-weight: 9
+program_chair: true
+weight: 3
 layout: team
 ---
 

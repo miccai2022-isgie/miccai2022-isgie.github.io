@@ -6,8 +6,9 @@ image: "images/team/ludovic.jpg"
 jobtitle: "Lecturer"
 org: "School of Science and Engineering, University of Dundee, UK"
 weburl: "https://www.dundee.ac.uk/people/ludovic-magerand"
-team: true
+team: false
 chair: false
+program_chair: true
 weight: 1
 layout: team
 ---
